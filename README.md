@@ -1,6 +1,6 @@
 # Yesenia Navarro
 
-Statistics student at San Diego State with a Data Science emphasis.
+Statistics student at San Diego State with a Data Science emphasis and a minor in Mathematics.
 
 **Portfolio:** https://yeseniananneliza.github.io
 
